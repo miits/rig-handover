@@ -1,9 +1,25 @@
 ---
 plan: morning-digest
-status: ready
+status: done
 owner: rook
 opened: 2026-10-29
+closed: 2026-11-10
 ---
+
+# Morning digest
+
+Finished. Issues:
+
+- #1 Digest types (DigestRow, readNight signature)
+- #2 Run log reader
+- #3 Digest page GET /digest/:night
+- #4 Digest JSON GET /api/digest/:night
+- #5 Board link to digests
+- #6 Route tests for digest
+- #7 Preview for review
+- #8 Clean up marker and archive plan
+
+Preview: https://miits.github.io/rig-handover/digest-2026-10-28.html
 
 # Morning digest
 
